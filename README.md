@@ -10,5 +10,5 @@
 
 因为课堂仅给出了部分代码，无法直接运行且省略了一些特殊情况，故做了许多自我的添加与改动。
 
-原理笔记见：（GitHub：https://github.com/HakureiWeideng/WeidengNote）。
+原理笔记见 GitHub：https://github.com/HakureiWeideng/WeidengNote
 
